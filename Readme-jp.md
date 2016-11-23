@@ -1,7 +1,7 @@
 # "O2Chart" D3.js(バージョン４)を利用したAngular2用グラフライブラリ
 
 
-"O2Chart"は、TypeScriptによって記述されたd3.js(バージョン４)ベースのAngular2用のグラフライブラリです。
+"O2Chart"は、TypeScript2によって記述されたd3.js(バージョン４)ベースのAngular2用のグラフライブラリです。
 
 **概要**
    - "O2Chart"は、d3.js(バージョン４)のラッパライブラリです。
@@ -105,10 +105,10 @@
  
 **バージョン**
 
-   - O2Chart    : 1.0
-   - Angular2   : 2.0.0-beta.0
-   - TypeScript : 1.7.3
-   - d3.js      : latest
+   - o2chart    : 2.0
+   - Angular2   : 2.1.0
+   - TypeScript : 2.0.3
+   - d3.js      : 4.3.0
    
 
 
@@ -134,8 +134,10 @@
 
 **更新履歴**
 
- - 2016.3.11 version 1.0 uploaded
+ - 2016.3.11 version 1.0 uploaded (旧名 "o2d3ng2")
+ - 2016.11.23 version 2.0 uploaded ("o2chart"に名称変更)
 
 **Copyright**
 
+MIT License
 copyright 2016 by Shuichi Ohtsu (DigiPub Japan)

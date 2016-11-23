@@ -1,4 +1,4 @@
-const SOLUTION_NAME = "o2ng2d3v4Chart";
+const SOLUTION_NAME = "o2-chart";
 
 var dateFormat = {
   fmt : {
