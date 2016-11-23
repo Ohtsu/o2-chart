@@ -28,10 +28,9 @@
 **Prerequisite**
 
    - node.js
-   - concurrently
-   - live-server
-   - bootstrap
-   - typescript
+   - typescript2
+   - Angular2
+   - Angular-cli
 
 
 **Install**
@@ -95,10 +94,10 @@ Download or clone all the source files.
 
 **Version**
 
-   - o2d3ng2    : 1.0
-   - Angular2   : 2.0.0-beta.0
-   - TypeScript : 1.7.3
-   - d3.js      : latest
+   - o2chart    : 2.0
+   - Angular2   : 2.1.0
+   - TypeScript : 2.0.3
+   - d3.js      : 4.3.0
    
 
 **Reference**
@@ -120,10 +119,14 @@ Download or clone all the source files.
 
 **Change Log**
 
- - 2016.3.11 version 1.0 uploaded
+ - 2016.3.11 version 1.0 uploaded (Old name -o2d3ng2)
+ - 2016.11.23 version 2.0 uploaded (Renamed to o2chart)
 
-**Copy right**
+**Copyright**
 
-copy right 2016 by Shuichi Ohtsu (DigiPub Japan)
+MIT License
+copyright 2016 by Shuichi Ohtsu (DigiPub Japan)
+
+
 
 
