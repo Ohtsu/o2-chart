@@ -1,10 +1,10 @@
-# "O2Chart" D3.js(バージョン４)を利用したAngular2用グラフライブラリ
+# "o2-chart" D3.js(バージョン４)を利用したAngular2用グラフライブラリ
 
 
-"O2Chart"は、TypeScript2によって記述されたd3.js(バージョン４)ベースのAngular2用のグラフライブラリです。
+"o2-chart"は、TypeScript2によって記述されたd3.js(バージョン４)ベースのAngular2用のグラフライブラリです。
 
 **概要**
-   - "O2Chart"は、d3.js(バージョン４)のラッパライブラリです。
+   - "o2-chart"は、d3.js(バージョン４)のラッパライブラリです。
    - 以下の12の基本グラフをサポート
 
     (折れ線グラフ、円グラフ、棒グラフ、散布図、ヒストグラム、積み上げ棒グラフ、世界地図、地球図、ツリー、パックレイアウト,コロプレス、フォース)
@@ -40,7 +40,7 @@
 
 　以下よりダウンロードできます。
 
-    <https://github.com/Ohtsu/O2Chart>
+    <https://github.com/Ohtsu/o2-chart>
 
 
 
@@ -105,7 +105,7 @@
  
 **バージョン**
 
-   - o2chart    : 2.0
+   - o2-chart    : 2.0
    - Angular2   : 2.1.0
    - TypeScript : 2.0.3
    - d3.js      : 4.3.0
@@ -135,7 +135,7 @@
 **更新履歴**
 
  - 2016.3.11 version 1.0 uploaded (旧名 "o2d3ng2")
- - 2016.11.23 version 2.0 uploaded ("o2chart"に名称変更)
+ - 2016.11.23 version 2.0 uploaded ("o2-chart"に名称変更)
 
 **Copyright**
 
