@@ -21,9 +21,6 @@
 
     You can animate such charts as Bar, Pie, Histogram, Stack Bar,Geo Orthographic and Pack Layout charts by the configuration file.
 
-    *Sample program is using Tab Pages of "Bootstrap" to display all the charts. If you want to check the animation, please change the source file a bit as follows.
-    
-    In "app.components.ts", the current default chart is set "geoOrthographicTypeName". So please change it to your favourite chart type and the chart type own data. 
     
 **Prerequisite**
 
@@ -37,27 +34,21 @@
 
 Download or clone all the source files. 
 
-   - Change directory into "prg" in your downloaded directory.
-    
-    You will find directories and files as follows.
-
-        [data]        
-        [node_modules]        
-        [src]        
-        index.html        
-        package.json        
-        tsconfig.json
-       
-    
+   - input "git clone https://github.com/Ohtsu/o2-chart.git" in the command prompt.
+ 
    - input "npm install" in the command prompt.
-   
+ 
+  
      Then all the filles will be installed in your local directory.
      
 **How to run** 
 
-  - input "npm start" in the same directory.
+  - input "cd src" in the same directory.
   
-     Then local http server will start and your default browser will be shown.  
+  - input "ng serve" .
+
+     Then local http server will start.
+     You can get views of the sample program by accessing "http://localhost:4200" in your browser .  
 
 **Chart Data**
 
