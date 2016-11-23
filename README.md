@@ -108,6 +108,10 @@ Download or clone all the source files.
 - "Mastering TypeScript",2015/4/23,by Nathan Rozentals,
 <http://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&url=search-alias%3Daps&field-keywords=ISBN978-1-78439-966-5&rh=i%3Aaps%2Ck%3AISBN978-1-78439-966-5>
 
+- "D3 Tips and Tricks v4.x",Leanpub,
+<https://leanpub.com/d3-t-and-t-v4/read>
+
+
 **Change Log**
 
  - 2016.3.11 version 1.0 uploaded (Old name -o2d3ng2)
