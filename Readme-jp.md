@@ -21,10 +21,31 @@
 
     グラフの表示に際し、アニメーションさせることができます。この機能をサポートしているのは、棒グラフ、円グラフ、ヒストグラム、積み上げ棒グラフ,地球図、パックレイアウトです。アニメーションを付加するか否かは、設定ファイルで設定。
     
-    *注意　サンプルプログラムでは、"Bootstrap"のタブページ機能を利用し、すべてのグラフを一度に表示しています。このため、最初のタブページに表示されるグラフでは、アニメーション効果を確認することができますが、その他のタブページでは、アニメーションが終了した後の表示となってしまいます。
-    このため、アニメーション効果を確認したいグラフについては、最初のタブページに表示するよう、以下のようにソースを修正してください。
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Line01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Bar01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Pie01.png" width= "640" >
     
-    "app.components.ts"ファイルの中で設定されているアクティブ・タブページを目的のタブ・ページに変更
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ScatterPlot01.png" width= "640" >
+    
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Histogram01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/StackBar01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/GeoMap01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/GeoOrthographic01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Tree01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/PackLayout01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Choropleth01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Force01.png" width= "640" >
+
     
     なお、デフォルトではアニメーション可の設定となっているので、上記のアニメーション対応グラフすべてが、アニメーションすることになり、マシンによっては反応が遅くなりますので、ご注意ください。 
     
