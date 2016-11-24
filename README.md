@@ -21,9 +21,9 @@
 
     You can animate such charts as Bar, Pie, Histogram, Stack Bar,Geo Orthographic and Pack Layout charts by the configuration file.
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Bar01.png" width= "500" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Bar01.png" width= "600" >
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Pie01.png" width= "500" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Pie01.png" width= "600" >
     
 **Prerequisite**
 
