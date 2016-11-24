@@ -21,8 +21,6 @@
 
     You can animate such charts as Bar, Pie, Histogram, Stack Bar,Geo Orthographic and Pack Layout charts by the configuration file.
   
-    (Line,Bar,Pie,ScatterPlot,Histogram,Stack Bar, Geo Map, Geo Orthographic, 
-    Tree, Pack Layout, Choropleth,Force)
 
   <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Line01.png" width= "640" >
 
