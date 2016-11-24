@@ -95,13 +95,15 @@ Download or clone all the source files.
  -Line (interpolate)
  
  -Grid (display or not, position, size)
+
+ -Animation (enable or not, duration)
  
  -Margin (top, left, right,bottom,between)
  
  -Axis (left margin, bottom mergin)
  
- -Animation (enable or not, duration)
- 
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/DisplayLayout01.png" width= "640" >
+
  In more details, please refer to the sample "this.configData" in app.components.ts.
  
  
