@@ -20,11 +20,36 @@
    - Animation
 
     You can animate such charts as Bar, Pie, Histogram, Stack Bar,Geo Orthographic and Pack Layout charts by the configuration file.
+  
+    (Line,Bar,Pie,ScatterPlot,Histogram,Stack Bar, Geo Map, Geo Orthographic, 
+    Tree, Pack Layout, Choropleth,Force)
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Line01.png" width= "640" >
 
   <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Bar01.png" width= "640" >
 
   <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Pie01.png" width= "640" >
     
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ScatterPlot01.png" width= "640" >
+    
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Histogram01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/StackBar01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/GeoMap01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/GeoOrthographic01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Tree01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/PackLayout01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Choropleth01.png" width= "640" >
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/Force01.png" width= "640" >
+
+
+
 **Prerequisite**
 
    - node.js
