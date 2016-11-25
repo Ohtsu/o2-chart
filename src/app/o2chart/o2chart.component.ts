@@ -134,7 +134,7 @@ root: any;
             .rangeRound([0, _graphWidth]);
 
         let bins = d3.histogram()
-            .domain(_xScale.domain())
+            .domain([0,1])
             .thresholds(_xScale.ticks(_binNumber))
             (_dataSet);
 
@@ -225,7 +225,7 @@ root: any;
                     
 
         let simulation = d3.forceSimulation()
-            .force("link", d3.forceLink().id((d) => { 
+            .force("link", d3.forceLink().id((d:any) => {
                 return d.id; 
             }))
             .force("charge", d3.forceManyBody())
@@ -271,8 +271,8 @@ root: any;
             .nodes(dataSetJson.nodes)
             .on("tick", ticked);
 
-        simulation.force("link")
-            .links(dataSetJson.links);
+        let _forceLink:any = simulation.force("link");
+        _forceLink.links(dataSetJson.links);
 
         function ticked() {
             link
@@ -1481,10 +1481,10 @@ root: any;
 
         let line = d3.line()
             .curve(d3.curveLinear)
-            .x( (d) => {
+            .x( (d:any) => {
                 return _leftMargin+d.id * _columnWidth;
             })
-            .y( (d) => {
+            .y( (d:any) => {
                 return cdt.svgHeight -_bottomMargin -( d.value * _yScale) ;
             })
         let lineElements = svgContainer.append("path")
