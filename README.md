@@ -1,5 +1,7 @@
 # "o2-chart" Chart Library for Angular2 by TypeScript2
 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 
 "o2-chart" is a chart library using d3.js (version 4) for Angular2 written by TypeScript2.
 
