@@ -5,6 +5,8 @@
 
 "o2-chart" is a chart library using d3.js (version 4) for Angular2 written by TypeScript2.
 
+"Demo Page",
+<https://ohtsu.github.io/o2-chart/>
 
 
 **Overview**
