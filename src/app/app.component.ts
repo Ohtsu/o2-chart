@@ -189,7 +189,7 @@ export class AppComponent {
 		this.geoOrthographicDataJson =
 		{
 			"map":{
-					"baseGeoDataUrl":"data/world.geojson",
+					"baseGeoDataUrl":"https://raw.githubusercontent.com/Ohtsu/data/master/o2-chart/world.geojson",
 					"keyDataName":"features",
 					"targetPropertyName":"properties.name",
 					"scale":160,
@@ -221,7 +221,7 @@ export class AppComponent {
 		this.geoMapDataJson = 
 		{
 			"map":{
-					"baseGeoDataUrl":"data/world.geojson",
+					"baseGeoDataUrl":"https://raw.githubusercontent.com/Ohtsu/data/master/o2-chart/world.geojson",
 					"scale":75,
 					"keyDataName":"features",
 					"targetPropertyName":"properties.name",
@@ -591,7 +591,7 @@ export class AppComponent {
 
 		this.choroplethDataJson = {
 			"map":{
-				"baseGeoDataUrl":"data/japan.geojson",
+				"baseGeoDataUrl":"https://raw.githubusercontent.com/Ohtsu/data/master/o2-chart/japan.geojson",
 				"scale":900,
 				"center":[137.571,37.500],
 				"startColor":"blue",
