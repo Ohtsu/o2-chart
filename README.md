@@ -1,4 +1,4 @@
-# "o2-chart" Chart Library for Angular2 by TypeScript2
+# "o2-chart" Chart Sample for Angular2 by TypeScript2
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 

@@ -1,7 +1,7 @@
-# "o2-chart" D3.js(バージョン４)を利用したAngular2用グラフライブラリ
+# "o2-chart" D3.js(バージョン４)を利用したAngular2用チャートサンプル
 
 
-"o2-chart"は、TypeScript2によって記述されたd3.js(バージョン４)ベースのAngular2用のグラフライブラリです。
+"o2-chart"は、TypeScript2によって記述されたd3.js(バージョン４)ベースのAngular2用のチャートのサンプルです。
 
 "Demo Page",
 <https://ohtsu.github.io/o2-chart/>
