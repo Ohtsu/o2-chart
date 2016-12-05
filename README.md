@@ -119,7 +119,7 @@ Download or clone all the source files.
 
 **Version**
 
-   - o2chart    : 2.0
+   - o2-chart   : 2.0
    - Angular2   : 2.1.0
    - TypeScript : 2.0.3
    - d3.js      : 4.3.0
