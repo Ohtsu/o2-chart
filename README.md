@@ -3,14 +3,14 @@
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
-"o2-chart" is a chart library using d3.js (version 4) for Angular2 written by TypeScript2.
+"o2-chart" is a chart sample using d3.js (version 4) for Angular2 written by TypeScript2.
 
 "Demo Page",
 <https://ohtsu.github.io/o2-chart/>
 
 
 **Overview**
-   - "o2-chart" is a wrapper library of d3.js (version 4) for Angular2
+   - "o2-chart" is a wrapper program of d3.js (version 4) for Angular2
    - 12 main charts are supported
 
     (Line,Bar,Pie,ScatterPlot,Histogram,Stack Bar, Geo Map, Geo Orthographic, Tree, Pack Layout, Choropleth,Force)
@@ -57,7 +57,7 @@
 **Prerequisite**
 
    - node.js
-   - typescript2
+   - Typescript2
    - Angular2
    - Angular-cli
 
